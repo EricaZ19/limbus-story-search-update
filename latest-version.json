@@ -1,8 +1,9 @@
 {
-  "version": "2026-07-06-490dd91",
-  "builtAt": "2026-07-06T16:15:12.669Z",
+  "version": "2026-07-07-src490dd91-tool642e911",
+  "builtAt": "2026-07-07T01:13:27.698Z",
   "releaseUrl": "https://github.com/EricaZ19/limbus-story-search/releases/latest",
-  "assetName": "LCB-story-search-2026-07-06-490dd91.zip",
+  "assetName": "LCB-story-search-2026-07-07-src490dd91-tool642e911.zip",
   "sourceRef": "490dd91",
+  "toolRef": "642e911",
   "notes": "边狱公司剧情检索器离线包更新。"
 }
